@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taskido</string>
+
+    <!--Introduction Screen-->
+    <string name="intro_text_1">Determine</string>
+    <string name="intro_text_2">to complete</string>
+    <string name="intro_text_3">your tasks.</string>
+    <string name="intro_button">Start up!</string>
+    <string name="show_task_add_task_hint">Add task by tapping \n the + button</string>
+    <string name="sample_task_small">Complete all the tasks</string>
+    <string name="activity_not_supported">Feature not supported</string>
+    <string name="add_task_speak_hint">Speak to add new task</string>
+    <string name="complication_short_no_task_message">Clear</string>
+    <string name="complication_long_no_task_message">Taskido: No pending task</string>
+    <string name="complication_long_task_count_prefix">Taskido:</string>
+</resources>
